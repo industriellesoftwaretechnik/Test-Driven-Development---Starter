@@ -11,7 +11,7 @@ Fizz Buzz’s rules are super simple. A group of students sit in a circle and st
 ## Start here
 
 First implement a simple test for the game described above. 
-`test\fizzBuzz\fizzBuzz.spec.ts`
+`fizzBuzz.spec.ts`
 
 Think about what you want the api to look like...
 
