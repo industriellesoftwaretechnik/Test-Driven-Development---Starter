@@ -3,7 +3,7 @@
 This repository contains a growing list of examples/tasks to learn how to approach software development in a test-driven way.
 
 ## Available Exercises
-1. [Fizz Buzz]('src/fizzBuzz/readme.md'])
+1. [Fizz Buzz]('src/fizzBuzz/readme.md')
 2. ...
 
 
